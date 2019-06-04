@@ -9,6 +9,6 @@ http://www.ti.com/lit/ds/symlink/tps63030.pdf
 <b>ToDo:</b><br>
 DRC<br>
 
-<img src="https://github.com/cernohorsky/TPS63031/blob/master/TPS63031-View.jpg" />
-
+<img src="https://github.com/cernohorsky/TPS63031/blob/master/pictures/TPS63031-View.jpg" />
+<img src="https://github.com/cernohorsky/TPS63031/blob/master/pictures/TPS63031-IdleCurrent.jpg" />
 #TPS63031, #breakout, #buck-boost, #3v3, #battery

@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:TPS63031-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -390,4 +390,6 @@ Text Label 4700 3550 2    50   ~ 0
 VINA
 Text Label 3650 3200 0    50   ~ 0
 VINA
+Text Notes 2775 4450 0    50   ~ 0
+Standard mode R1=0R,R2=DNP\nPower save mode R1=DNP,R2=0R
 $EndSCHEMATC

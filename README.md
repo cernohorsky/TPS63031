@@ -10,6 +10,7 @@ http://www.ti.com/lit/ds/symlink/tps63030.pdf
 DRC<br>
 
 <img src="https://github.com/cernohorsky/TPS63031/blob/master/pictures/TPS63031-View.jpg" />
+<img src="https://github.com/cernohorsky/TPS63031/blob/master/pictures/TPS63031-Schematic.jpg" />
 Idle current measurement (connected LoRa Node in sleep mode - 5 uA)
 <img src="https://github.com/cernohorsky/TPS63031/blob/master/pictures/TPS63031-IdleCurrent.jpg" height="600" />
 #TPS63031, #breakout, #buck-boost, #3v3, #battery
